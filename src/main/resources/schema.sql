@@ -1,0 +1,1 @@
+create  table f_familles (nom varchar(255), prenom varchar(255));
